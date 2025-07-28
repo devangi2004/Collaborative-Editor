@@ -1,0 +1,1 @@
+frontend/src/style.css frontend/src/tailwind.config.js

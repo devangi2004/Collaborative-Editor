@@ -1,0 +1,12 @@
+{
+  "name": "collab-editor",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "npm --prefix backend start",
+    "client": "npm --prefix frontend start"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
