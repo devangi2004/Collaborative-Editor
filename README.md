@@ -34,10 +34,10 @@ A real-time collaborative text editor built using **React**, **Socket.IO**, and 
 
 ## ⚙️ Tech Stack
 
-| Frontend      | Backend         | Realtime         | Database |
-|---------------|----------------|------------------|----------|
+| Frontend      | Backend           | Realtime         | Database |
+|---------------|-------------------|------------------|----------|
 | React.js      | Node.js + Express | Socket.IO        | MongoDB  |
-| Quill.js      |                 |                  |          |
+| Quill.js      |                   |                  |          |
 
 ---
 
