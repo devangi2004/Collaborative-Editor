@@ -23,11 +23,12 @@ A real-time collaborative text editor built using **React**, **Socket.IO**, and 
 ### ✍️ Light Mode with Text
 <img width="1920" height="1080" alt="Light Mode with Text" src="https://github.com/user-attachments/assets/6dc82b47-23ec-46b3-b0b6-e7e32fadbb1f" />
 
+### 🌘 Dark Mode
+<img width="1920" height="1080" alt="Dark Mode" src="https://github.com/user-attachments/assets/40a7be2e-8518-44ed-9e92-3da316cd5555" />
+
 ### 🌙 Dark Mode with Text
 <img width="1920" height="1080" alt="Dark Mode with Text" src="https://github.com/user-attachments/assets/6b6ffc83-7e3f-4fbf-ae53-f33d4fe47f36" />
 
-### 🌘 Dark Mode
-<img width="1920" height="1080" alt="Dark Mode" src="https://github.com/user-attachments/assets/40a7be2e-8518-44ed-9e92-3da316cd5555" />
 ```
 ---
 
